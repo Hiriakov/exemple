@@ -1,4 +1,4 @@
-export const ProjectSendRequestTable = 'project_send_request';
+export const ProjectSendRequestTable = 'project_send_request'
 
 export enum EProjectSendRequestFields {
   id = 'id',

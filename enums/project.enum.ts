@@ -1,6 +1,4 @@
-
-export const ProjectTable = 'project' as const;
-
+export const ProjectTable = 'project' as const
 
 export enum EProjectFields {
   id = 'id',
